@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>418</width>
-    <height>332</height>
+    <width>356</width>
+    <height>235</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -38,10 +38,11 @@
        <string notr="true">QPushButton{
 	background-color: rgb(166, 221, 255);
 	color: #000000;
+	border-radius: 5px;
 }</string>
       </property>
       <property name="text">
-       <string>100</string>
+       <string>0</string>
       </property>
       <property name="alignment">
        <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -61,8 +62,13 @@
       </property>
       <property name="styleSheet">
        <string notr="true">QPushButton{
-	background-color: rgb(166, 221, 255);
+	background-color: rgb(188, 188, 188);
 	color: #000000;
+}
+
+QPushButton:hover
+{
+	background-color:rgb(157, 162, 160);
 }</string>
       </property>
       <property name="text">
@@ -80,8 +86,13 @@
       </property>
       <property name="styleSheet">
        <string notr="true">QPushButton{
-	background-color: rgb(166, 221, 255);
+	background-color: rgb(188, 188, 188);
 	color: #000000;
+}
+
+QPushButton:hover
+{
+	background-color:rgb(157, 162, 160);
 }</string>
       </property>
       <property name="text">
@@ -99,8 +110,13 @@
       </property>
       <property name="styleSheet">
        <string notr="true">QPushButton{
-	background-color: rgb(166, 221, 255);
+	background-color: rgb(188, 188, 188);
 	color: #000000;
+}
+
+QPushButton:hover
+{
+	background-color:rgb(157, 162, 160);
 }</string>
       </property>
       <property name="text">
@@ -120,6 +136,11 @@
        <string notr="true">QPushButton{
 	background-color: #EC822A;
 	color: #000000;
+}
+
+QPushButton:hover
+{
+	background-color:rgb(157, 162, 160);
 }</string>
       </property>
       <property name="text">
@@ -137,8 +158,13 @@
       </property>
       <property name="styleSheet">
        <string notr="true">QPushButton{
-	background-color: rgb(166, 221, 255);
+	background-color: rgb(188, 188, 188);
 	color: #000000;
+}
+
+QPushButton:hover
+{
+	background-color:rgb(157, 162, 160);
 }</string>
       </property>
       <property name="text">
@@ -156,8 +182,13 @@
       </property>
       <property name="styleSheet">
        <string notr="true">QPushButton{
-	background-color: rgb(166, 221, 255);
+	background-color: rgb(188, 188, 188);
 	color: #000000;
+}
+
+QPushButton:hover
+{
+	background-color:rgb(157, 162, 160);
 }</string>
       </property>
       <property name="text">
@@ -175,8 +206,13 @@
       </property>
       <property name="styleSheet">
        <string notr="true">QPushButton{
-	background-color: rgb(166, 221, 255);
+	background-color: rgb(188, 188, 188);
 	color: #000000;
+}
+
+QPushButton:hover
+{
+	background-color:rgb(157, 162, 160);
 }</string>
       </property>
       <property name="text">
@@ -196,6 +232,11 @@
        <string notr="true">QPushButton{
 	background-color: #EC822A;
 	color: #000000;
+}
+
+QPushButton:hover
+{
+	background-color:rgb(157, 162, 160);
 }</string>
       </property>
       <property name="text">
@@ -213,8 +254,13 @@
       </property>
       <property name="styleSheet">
        <string notr="true">QPushButton{
-	background-color: rgb(166, 221, 255);
+	background-color: rgb(188, 188, 188);
 	color: #000000;
+}
+
+QPushButton:hover
+{
+	background-color:rgb(157, 162, 160);
 }</string>
       </property>
       <property name="text">
@@ -232,8 +278,13 @@
       </property>
       <property name="styleSheet">
        <string notr="true">QPushButton{
-	background-color: rgb(166, 221, 255);
+	background-color: rgb(188, 188, 188);
 	color: #000000;
+}
+
+QPushButton:hover
+{
+	background-color:rgb(157, 162, 160);
 }</string>
       </property>
       <property name="text">
@@ -251,8 +302,13 @@
       </property>
       <property name="styleSheet">
        <string notr="true">QPushButton{
-	background-color: rgb(166, 221, 255);
+	background-color: rgb(188, 188, 188);
 	color: #000000;
+}
+
+QPushButton:hover
+{
+	background-color:rgb(157, 162, 160);
 }</string>
       </property>
       <property name="text">
@@ -272,6 +328,11 @@
        <string notr="true">QPushButton{
 	background-color: #EC822A;
 	color: #000000;
+}
+
+QPushButton:hover
+{
+	background-color:rgb(157, 162, 160);
 }</string>
       </property>
       <property name="text">
@@ -291,6 +352,11 @@
        <string notr="true">QPushButton{
 	background-color: #EC822A;
 	color: #000000;
+}
+
+QPushButton:hover
+{
+	background-color:rgb(157, 162, 160);
 }</string>
       </property>
       <property name="text">
@@ -308,8 +374,13 @@
       </property>
       <property name="styleSheet">
        <string notr="true">QPushButton{
-	background-color: rgb(166, 221, 255);
+	background-color: rgb(188, 188, 188);
 	color: #000000;
+}
+
+QPushButton:hover
+{
+	background-color:rgb(157, 162, 160);
 }</string>
       </property>
       <property name="text">
@@ -329,6 +400,11 @@
        <string notr="true">QPushButton{
 	background-color: #EC822A;
 	color: #000000;
+}
+
+QPushButton:hover
+{
+	background-color:rgb(157, 162, 160);
 }</string>
       </property>
       <property name="text">
@@ -348,6 +424,11 @@
        <string notr="true">QPushButton{
 	background-color: #EC822A;
 	color: #000000;
+}
+
+QPushButton:hover
+{
+	background-color:rgb(157, 162, 160);
 }</string>
       </property>
       <property name="text">
@@ -365,8 +446,13 @@
       </property>
       <property name="styleSheet">
        <string notr="true">QPushButton{
-	background-color: #EC822A;
+	background-color: rgb(249, 0, 4);
 	color: #000000;
+}
+
+QPushButton:hover
+{
+	background-color:rgb(157, 162, 160);
 }</string>
       </property>
       <property name="text">
@@ -381,7 +467,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>418</width>
+     <width>356</width>
      <height>21</height>
     </rect>
    </property>
